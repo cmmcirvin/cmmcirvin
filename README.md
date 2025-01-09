@@ -5,4 +5,4 @@
 Hey there! I'm Caleb McIrvin, a PhD student studying Machine Learning @ VTNSI. I'm fascinated by everything ML, but my current focus is on applying few-shot learning to solve wireless communications problems.
 
 ### :fire: My contribution stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cmmcirvin&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-git-main-cmmcirvins-projects.vercel.app?user=cmmcirvin&theme=rose-pine)](https://git.io/streak-stats)
